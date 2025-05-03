@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "3KhxbaZ1yz8ToQM1dsrxjVKChDjyMu3euCR3iiH7nTuX",
+  "symbol": "WDLS",
+  "name": "Woodls",
+  "uri": "https://lord-varad.github.io/woodls-token/metadata.json",
+  "decimals": 0,
+  "logoURI": "https://lord-varad.github.io/woodls-token/logo.png",
+  "tags": ["fungible"],
+  "extensions": {
+    "website": "https://yourwebsite.com",
+    "twitter": "https://twitter.com/yourtwitterhandle"
+  }
+}
